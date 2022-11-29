@@ -3,6 +3,7 @@ import {SectionList, StyleSheet, Text, View} from 'react-native';
 import Sports from './data/SportsLeagueMapping.json';
 import {useColorScheme} from 'react-native';
 
+//Home screen that allows the user to choose the competition that he wants to see the schedules games
 export default function HomeScreen({navigation}) {
   let theme = useColorScheme();
 
@@ -29,6 +30,7 @@ export default function HomeScreen({navigation}) {
   );
 }
 
+// function to navigate to the matches schedule
 function GoToMatches({navigation}, item) {
   navigation.navigate('Matches', item);
 }

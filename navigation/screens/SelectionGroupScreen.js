@@ -3,6 +3,7 @@ import {View, Text, SectionList, StyleSheet} from 'react-native';
 import groups from './data/RankingSelection.json';
 import {useColorScheme} from 'react-native';
 
+//This screen is used to select the group that you want to see the leader board
 export default function SelectionGroupScreen({route, navigation}) {
   let theme = useColorScheme();
   let styles = style(theme);
@@ -36,6 +37,7 @@ export default function SelectionGroupScreen({route, navigation}) {
   }
 }
 
+//Function to navigate to the standings
 function GoToStandings({navigation}, item) {
   navigation.navigate('Standings', item);
 }

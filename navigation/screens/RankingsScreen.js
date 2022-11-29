@@ -3,6 +3,7 @@ import {View, Text, SectionList, StyleSheet} from 'react-native';
 import Sports from './data/SportsLeagueMapping.json';
 import {useColorScheme} from 'react-native';
 
+// Allows the user to select the competition that he wants to see the leaderboard
 export default function RankingsScreen({navigation}) {
   let theme = useColorScheme();
   let styles = style(theme);

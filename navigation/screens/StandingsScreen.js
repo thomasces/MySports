@@ -5,6 +5,7 @@ import ranks from './data/RankingsGoupStage.json';
 
 let group_stage = '';
 
+//display the standings of the chosen group
 export default function StandingsScreen({route, navigation}) {
   group_stage = route.params;
   return (

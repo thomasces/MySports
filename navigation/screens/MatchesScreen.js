@@ -4,6 +4,7 @@ import Matches from './data/MatchesSchedule.json';
 import flag from './data/Flag.json';
 import {useColorScheme} from 'react-native';
 
+// this screen display all the games schedule for the chosen competition
 export default function MatchesScreen({route, navigation}) {
   let theme = useColorScheme();
   let styles = style(theme);
@@ -38,6 +39,7 @@ export default function MatchesScreen({route, navigation}) {
   }
 }
 
+//function to navigate to the details of the game
 function GoToDetails({navigation}, item) {
   navigation.navigate('Details', item);
 }

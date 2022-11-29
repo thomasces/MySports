@@ -3,6 +3,7 @@ import {View, Text, StyleSheet, Button} from 'react-native';
 import flag from './data/Flag.json';
 import {useColorScheme} from 'react-native';
 
+//function to show the information like the goalscorer name, minute of the goal about the chosen game
 export default function GameDetailsScreen({route, navigation}) {
   let infos = route.params;
   let theme = useColorScheme();
