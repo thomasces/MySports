@@ -1,0 +1,178 @@
+{
+  "Group A": [
+    {
+      "points": 4,
+      "team": "Netherlands",
+      "rank": 1
+    },
+    {
+      "points": 4,
+      "team": "Ecuador",
+      "rank": 2
+    },
+    {
+      "points": 3,
+      "team": "Senegal",
+      "rank": 3
+    },
+    {
+      "points": 0,
+      "team": "Qatar",
+      "rank": 4
+    }
+  ],
+  "Group B": [
+    {
+      "points": 4,
+      "team": "England",
+      "rank": 1
+    },
+    {
+      "points": 3,
+      "team": "Iran",
+      "rank": 2
+    },
+    {
+      "points": 2,
+      "team": "USA",
+      "rank": 3
+    },
+    {
+      "points": 1,
+      "team": "Wales",
+      "rank": 4
+    }
+  ],
+  "Group C": [
+    {
+      "points": 4,
+      "team": "Poland",
+      "rank": 1
+    },
+    {
+      "points": 3,
+      "team": "Argentina",
+      "rank": 2
+    },
+    {
+      "points": 3,
+      "team": "Saudi Arabia",
+      "rank": 3
+    },
+    {
+      "points": 1,
+      "team": "Mexico",
+      "rank": 4
+    }
+  ],
+  "Group D": [
+    {
+      "points": 6,
+      "team": "France",
+      "rank": 1
+    },
+    {
+      "points": 3,
+      "team": "Australia",
+      "rank": 2
+    },
+    {
+      "points": 1,
+      "team": "Denmark",
+      "rank": 3
+    },
+    {
+      "points": 1,
+      "team": "Tunisia",
+      "rank": 4
+    }
+  ],
+  "Group E": [
+    {
+      "points": 4,
+      "team": "Spain",
+      "rank": 1
+    },
+    {
+      "points": 3,
+      "team": "Japan",
+      "rank": 2
+    },
+    {
+      "points": 3,
+      "team": "Costa Rica",
+      "rank": 3
+    },
+    {
+      "points": 1,
+      "team": "Germany",
+      "rank": 4
+    }
+  ],
+  "Group F": [
+    {
+      "points": 4,
+      "team": "Croatia",
+      "rank": 1
+    },
+    {
+      "points": 4,
+      "team": "Morocco",
+      "rank": 2
+    },
+    {
+      "points": 3,
+      "team": "Belgium",
+      "rank": 3
+    },
+    {
+      "points": 0,
+      "team": "Canada",
+      "rank": 4
+    }
+  ],
+  "Group G": [
+    {
+      "points": 6,
+      "team": "Brazil",
+      "rank": 1
+    },
+    {
+      "points": 3,
+      "team": "Switzerland",
+      "rank": 2
+    },
+    {
+      "points": 1,
+      "team": "Cameroon",
+      "rank": 3
+    },
+    {
+      "points": 1,
+      "team": "Serbia",
+      "rank": 4
+    }
+  ],
+  "Group H": [
+    {
+      "points": 6,
+      "team": "Portugal",
+      "rank": 1
+    },
+    {
+      "points": 3,
+      "team": "Ghana",
+      "rank": 2
+    },
+    {
+      "points": 1,
+      "team": "South Korea",
+      "rank": 3
+    },
+    {
+      "points": 1,
+      "team": "Uruguay",
+      "rank": 4
+    }
+  ]
+}

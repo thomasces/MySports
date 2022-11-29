@@ -1,0 +1,26 @@
+{
+  "Soccer": [
+    {
+      "title": "World",
+      "data": [
+        "World Cup 2022"
+      ]
+    },
+    {
+      "title": "Europe",
+      "data": [
+        "Premier league",
+        "Ligue 1",
+        "Serie A",
+        "Bundesliga",
+        "LaLiga"
+      ]
+    },
+    {
+      "title": "America",
+      "data": [
+        "MLS"
+      ]
+    }
+  ]
+}
